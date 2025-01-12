@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Warna latar belakang -->
+    <solid android:color="#FFFFFF"/> <!-- Latar belakang putih (akan ditimpa oleh background di View) -->
+
+    <!-- Border -->
+    <stroke
+        android:color="#3ABEF9"
+        android:width="3dp" />        <!-- Ketebalan border -->
+
+    <!-- Sudut melengkung (opsional) -->
+    <corners android:radius="0dp"/>
+</shape>
